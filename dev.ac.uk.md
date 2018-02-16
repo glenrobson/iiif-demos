@@ -81,4 +81,3 @@ Further reading:
 Contact:
  * email claire.knowles at ed.ac.uk or glen.robson at iiif.io
  * twitter: @cgknowles or @glenrobson
- *

@@ -44,6 +44,9 @@ Teaching and Research
 Consortium
  * Details - https://iiif.io/community/consortium
 
+Presentation - https://drive.google.com/drive/folders/1cfm_OZzflaKQVReBWWc5r2-NpMExYiOn?usp=sharing
+https://drive.google.com/file/d/1zEggNITEUWCXEJ2tsfiAd4Rly4ByzuaQ/view?usp=sharing
+
 Join us
  * Github - http://github.com/IIIF
  * YouTube - https://www.youtube.com/watch?v=bfUoV6_arPA&list=PLYPP1-8uH9c4veOyfO4ZkUCX2nEXcf8_A&index=2

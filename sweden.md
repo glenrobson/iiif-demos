@@ -41,6 +41,9 @@ Teaching and Research
  * Microscope images of a Mouse Brain from University of California, San Diego - https://iiif.gdmrdigital.com/mouse_brain/index.html
  * Library of Congress Multispectral imaging - https://iiif.gdmrdigital.com/lc/index.html
  
+Discovery
+ * WikiData - https://query.wikidata.org/#%23defaultView%3ABubbleChart%0A%23Number%20of%20Wikidata%20items%20with%20IIIF%20manifests%2C%20grouped%20by%20collection%0ASELECT%20%3Fcollection%20%3FcollectionLabel%20%28COUNT%28%3Fitem%29%20AS%20%3Fcount%29%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP6108%20%3Fiiif%20.%0A%20%20%3Fitem%20wdt%3AP195%20%3Fcollection.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A%0AGROUP%20BY%20%3Fcollection%20%3FcollectionLabel%20%0AORDER%20BY%20DESC%28%3Fcount%29
+
 Consortium
  * Details - https://iiif.io/community/consortium
 

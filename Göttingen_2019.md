@@ -1,6 +1,6 @@
 # Göttingen 2019
 
-This document: 
+This document: http://bit.ly/2RvhhBw
 
 A list of links for the 'How to adopt? where do I get started? ' presentation I gave at the 2019 IIIF Göttingen showcase. 
 

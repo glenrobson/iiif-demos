@@ -1,4 +1,4 @@
-# Göttingen 2019
+# Europeana Working Group 2020
 
 This document: http://bit.ly/2RvhhBw
 

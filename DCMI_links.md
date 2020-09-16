@@ -2,6 +2,12 @@
 
 This page will give access to the links provided as part of the presentation on IIIF to the DCMI IIIF workshop.
 
+Link to this page: https://bit.ly/2ZGgItM 
+
+About:
+ * NLW digitisation examples: http://bit.ly/2zPFx8a
+ * NLW Newspapers: http://newspapers.library.wales
+
 Tools:
 
 JSON View Plugin:
@@ -10,6 +16,9 @@ JSON View Plugin:
 
 Add alternate JSON content-type for firefox:
  * application/ld+json. (Tools->Add ons->JsonView preferences)
+
+Map of implementers
+ * https://iiif.io/community/#participating-institutions
 
 Interoperable - viewers
  * http://projectmirador.org/demo/
@@ -25,9 +34,7 @@ Image API:
  * IIIF Image API specification: http://iiif.io/api/image/2.1/
 
 Image API Example:
- * https://tomcrane.github.io/the-long-iiif/image-api.html
- * Original Painting from the Welcome Trust:  http://wellcomelibrary.org/item/b14658197
- * Demo part of the Introduction to IIIF: http://resources.digirati.com/iiif/an-introduction-to-iiif/
+ * Image API interactive viewer: https://training.iiif.io/iiif-online-workshop/day-two/
 
 Image API - info.json
  * https://dlcs.io/iiif-img/3/2/04fbbb28-d5a7-4408-b7da-800c4e65eda3/info.json
@@ -60,6 +67,7 @@ BNF Manuscript Illustration Example
 
  IIIF Audio and Visual
   * Fire example: https://tomcrane.github.io/fire/
+  * McGill score example: https://ddmal.music.mcgill.ca/IIIF-AV-player/
 
 On the fly collections:
  * http://iiif.bodleian.ox.ac.uk/iiif/collection/map
